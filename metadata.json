@@ -1,0 +1,5 @@
+{
+  "name": "Global Currency Converter",
+  "description": "A sleek, real-time currency conversion tool with live exchange rates and historical trends.",
+  "requestFramePermissions": []
+}
